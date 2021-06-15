@@ -1,0 +1,1 @@
+This repo contains a minimal project to show the week number bug of the Vaadin enhanced date picker component.
